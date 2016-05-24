@@ -5,7 +5,7 @@ using System.Text;
 
 namespace Werwolf.Inhalt
 {
-    public class Kategorie
+    public class Gesinnung : Element
     {
     }
 }

@@ -5,8 +5,7 @@ using System.Text;
 
 namespace Werwolf.Inhalt
 {
-    public abstract class Manifest : Element
+   public class Rolle : Manifest
     {
-        
     }
 }
