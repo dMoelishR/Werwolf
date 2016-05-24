@@ -8,6 +8,12 @@ namespace Werwolf.Inhalt
 {
     public class  Fraktion : Element
     {
-        public Image Hintergrundbild { get; private set; }
+        public Bild Hintergrundbild { get; private set; }
+        public Aufgabe StandardAufgaben { get; private set; }
+
+        public Fraktion() : base("Fraktion", true)
+        {
+
+        }
     }
 }

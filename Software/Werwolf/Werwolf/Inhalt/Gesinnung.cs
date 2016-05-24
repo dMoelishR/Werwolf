@@ -7,5 +7,9 @@ namespace Werwolf.Inhalt
 {
     public class Gesinnung : Element
     {
+        public Gesinnung() : base("Gesinnung", true)
+        {
+
+        }
     }
 }

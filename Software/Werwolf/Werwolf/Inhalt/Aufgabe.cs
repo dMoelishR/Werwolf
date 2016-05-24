@@ -5,12 +5,7 @@ using System.Text;
 
 namespace Werwolf.Inhalt
 {
-    public class Rolle : Manifest
+    public class Aufgabe
     {
-        public Rolle()
-            : base("Rolle")
-        {
-
-        }
     }
 }

@@ -6,7 +6,7 @@ using System.Drawing;
 
 namespace Werwolf.Inhalt
 {
-    public abstract class Element
+    public abstract class Element : XmlElement
     {
         /// <summary>
         /// Mit Underlines statt Whitespaces
@@ -20,6 +20,12 @@ namespace Werwolf.Inhalt
             }
         }
         public string Desc { get; private set; }
-        public Image Bild { get; private set; }
+        public Bild Bild { get; private set; }
+
+        public Element(string XmlName, bool Klein)
+            : base(XmlName, Klein)
+        {
+
+        }
     }
 }
