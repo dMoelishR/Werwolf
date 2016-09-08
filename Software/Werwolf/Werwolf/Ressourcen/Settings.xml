@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Settings
+  WolfBoxFaktor ="4,83"
+  MaximumNumberOfCores ="8"
+  DelayTime ="10"
+  SleepTime ="100"
+  MaximumKarteSize_X ="100"
+  MaximumKarteSize_Y ="141"
+  MaximumImageArea ="10000"
+  MaximumPpm ="50"
+  ViewPpm ="8"
+  ErrorImagePath ="Ressourcen/Bilder/FehlerBilder/Fehlerbild.jpg"
+  >
+</Settings>

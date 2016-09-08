@@ -1,0 +1,233 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Universe Name ="" Schreibname ="Neues Spiel">
+  <Hintergrunddarstellungen
+      Name="Standard"
+      Schreibname="Standard"
+      Standard="Standard">
+    <HintergrundDarstellung
+        Name="Standard"
+        Schreibname="Standard"
+        Unzerstorbar="True"
+        Existiert="True"
+        Font_name="Calibri"
+        Font_style="Regular"
+        Font_size="8"
+        Rand_X="3"
+        Rand_Y="3"
+        Farbe="ffffffff"
+        RandFarbe="ff000000"
+        TextFarbe="ff000000"
+        Size_X="63"
+        Size_Y="89,1"
+        RundeEcken="True" />
+  </Hintergrunddarstellungen>
+  <Titeldarstellungen
+      Name="Standard"
+      Schreibname="Standard"
+      Standard="Standard">
+    <TitelDarstellung
+        Name="Standard"
+        Schreibname="Standard"
+        Unzerstorbar="True"
+        Existiert="True"
+        Font_name="Exocet"
+        Font_style="Regular"
+        Font_size="14"
+        Rand_X="1"
+        Rand_Y="1"
+        Farbe="ffffffff"
+        RandFarbe="ff000000"
+        TextFarbe="ff000000" />
+  </Titeldarstellungen>
+  <Bilddarstellungen
+      Name="Standard"
+      Schreibname="Standard"
+      Standard="Standard">
+    <BildDarstellung
+        Name="Standard"
+        Schreibname="Standard"
+        Unzerstorbar="True"
+        Existiert="True"
+        Font_name="Calibri"
+        Font_style="Regular"
+        Font_size="8"
+        Rand_X="1"
+        Rand_Y="1"
+        Farbe="00000000"
+        RandFarbe="ff000000"
+        TextFarbe="ff000000" />
+  </Bilddarstellungen>
+  <Textdarstellungen
+      Name="Standard"
+      Schreibname="Standard"
+      Standard="Standard">
+    <TextDarstellung
+        Name="Standard"
+        Schreibname="Standard"
+        Unzerstorbar="True"
+        Existiert="True"
+        Font_name="Calibri"
+        Font_style="Regular"
+        Font_size="8"
+        Rand_X="1"
+        Rand_Y="1"
+        Farbe="80ffffff"
+        RandFarbe="ff000000"
+        TextFarbe="ff000000"
+        BalkenDicke="1"
+        InnenRadius="1" />
+  </Textdarstellungen>
+  <Infodarstellungen
+      Name="Standard"
+      Schreibname="Standard"
+      Standard="Standard">
+    <InfoDarstellung
+        Name="Standard"
+        Schreibname="Standard"
+        Unzerstorbar="True"
+        Existiert="True"
+        Font_name="Calibri"
+        Font_style="Regular"
+        Font_size="8"
+        Rand_X="1"
+        Rand_Y="1"
+        Farbe="00000000"
+        RandFarbe="ff000000"
+        TextFarbe="ff000000" />
+  </Infodarstellungen>
+  <Hauptbilder
+      Name="Standard"
+      Schreibname="Standard"
+      Standard="Standard">
+    <HauptBild
+        Name="Standard"
+        Schreibname="Standard"
+        Unzerstorbar="True"
+        Artist="Artist"
+        Size_X="63"
+        Size_Y="89,1"
+        Zentrum_X="0,5"
+        Zentrum_Y="0,25" />
+  </Hauptbilder>
+  <Hintergrundbilder
+      Name="Standard"
+      Schreibname="Standard"
+      Standard="Standard">
+    <HintergrundBild
+        Name="Standard"
+        Schreibname="Standard"
+        Unzerstorbar="True"
+        Artist="Artist"
+        Size_X="63"
+        Size_Y="89,1"
+        Zentrum_X="0,5"
+        Zentrum_Y="0,5" />
+  </Hintergrundbilder>
+  <Rückseitenbilder
+      Name="Standard"
+      Schreibname="Standard"
+      Standard="Standard">
+    <RuckseitenBild
+        Name="Standard"
+        Schreibname="Standard"
+        Unzerstorbar="True"
+        Artist="Artist"
+        Size_X="63"
+        Size_Y="89,1"
+        Zentrum_X="0,5"
+        Zentrum_Y="0,5" />
+  </Rückseitenbilder>
+  <Textbilder
+      Name="Standard"
+      Schreibname="Standard"
+      Standard="Standard">
+    <TextBild
+        Name="Standard"
+        Schreibname="Standard"
+        Unzerstorbar="True"
+        Artist="Artist"
+        Size_X="63"
+        Size_Y="89,1"
+        Zentrum_X="0,5"
+        Zentrum_Y="0,5" />
+    <TextBild
+          Name="Daumen Oben"
+          Schreibname="Daumen Oben"
+          Unzerstorbar="True"
+          Artist="Artist"
+          Size_X="63"
+          Size_Y="89,1"
+          Zentrum_X="0,5"
+          Zentrum_Y="0,5"
+          FilePath="Ressourcen/Bilder/TextBilder/DaumenOben.png"/>
+    <TextBild
+      Name="Daumen Quer"
+      Schreibname="Daumen Quer"
+      Unzerstorbar="True"
+      Artist="Artist"
+      Size_X="63"
+      Size_Y="89,1"
+      Zentrum_X="0,5"
+      Zentrum_Y="0,5"
+      FilePath="Ressourcen/Bilder/TextBilder/DaumenQuer.png"/>
+    <TextBild
+  Name="Daumen Unten"
+  Schreibname="Daumen Unten"
+  Unzerstorbar="True"
+  Artist="Artist"
+  Size_X="63"
+  Size_Y="89,1"
+  Zentrum_X="0,5"
+  Zentrum_Y="0,5"
+  FilePath="Ressourcen/Bilder/TextBilder/DaumenUnten.png"/>
+  </Textbilder>
+  <Fraktionen
+      Name="Standard"
+      Schreibname="Standard"
+      Standard="Standard">
+    <Fraktion
+        Name="Standard"
+        Schreibname="Standard"
+        Unzerstorbar="True"
+        TitelArt="Rund"
+        HauptBild="Standard"
+        RuckseitenBild="Standard" />
+  </Fraktionen>
+  <Gesinnungen
+      Name="Standard"
+      Schreibname="Standard"
+      Standard="Standard">
+    <Gesinnung
+        Name="Standard"
+        Schreibname="Standard"
+        Unzerstorbar="True"
+        Aufgabe="Gesinnung" />
+  </Gesinnungen>
+  <Karten
+      Name="Standard"
+      Schreibname="Standard"
+      Standard="Standard">
+    <Karte
+        Name="Standard"
+        Schreibname="Beispielkarte"
+        Unzerstorbar="True"
+        Fraktion="Standard"
+        Gesinnung="Standard"
+        Aufgaben="\r rot \g grün \b blau \o orange \y gelb \w weiß \v violett \l sattelbraun \e grau \cff0abcde FF0ABCDE \s schwarz&#xD;&#xA;\+&#xD;&#xA;\d fett \d \i kursiv \i \u Unterstricht \u \a Oberstrich \a \f Linksstrich \f \j Rechtstrich \j \x Horizontalstrich \x\+::Daumen Oben:: ::Daumen Quer:: ::Daumen Unten::"
+        HauptBild="Standard"
+        HintergrundDarstellung="Standard"
+        TextDarstellung="Standard"
+        TitelDarstellung="Standard"
+        InfoDarstellung="Standard"
+        BildDarstellung="Standard" />
+  </Karten>
+  <Decks
+      Name="Standard"
+      Schreibname="Standard"
+      Standard="Standard">
+    <Deck
+        Name="Standard"
+        Schreibname="Standard"
+        Unzerstorbar="True"></Deck>
+  </Decks>
+</Universe>
